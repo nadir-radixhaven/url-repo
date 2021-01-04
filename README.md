@@ -77,6 +77,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Waffle IO](http://waffle.io)
   * [Toggl](https://toggl.com/)
   * [Pomodoro timer](https://tomato-timer.com/)
+  * [Ejemplo de documento de diseño de alto nivel](https://github.com/jorgevgut/airquality-mx/wiki/High-level-System-Design)
  
 ## Software Development References
   * [NPM](https://www.npmjs.com)
@@ -87,7 +88,7 @@ Lista diferentes URLs de sitios que nos ayudan en el desarrollo
   * [Desings patterns CSS](https://every-layout.dev)
   * [Home MediaQueries](https://mediaqueri.es/)
   * [Tablero Infinito (Miro)](https://miro.com)
-  * [Loading incribles](https://loading.io/)
+  * [Loading increibles](https://loading.io/)
 
 ## Guias de creacion y mantenimiento de codigo
   * [Shopify](https://polaris.shopify.com/)
